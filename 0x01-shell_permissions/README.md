@@ -1,0 +1,1 @@
+List of shell permission
