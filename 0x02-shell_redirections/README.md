@@ -1,1 +1,1 @@
-This is a list of shell redirection commands
+These are IO Redirection commands
