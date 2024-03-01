@@ -1,1 +1,1 @@
-this directory contains 0x06-regular_expressions projects
+This directory contains 0x07-networking_basics solutions
