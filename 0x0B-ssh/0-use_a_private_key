@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Allows us to connect to my server using the private key with user ubuntu
-ssh -i ~/.ssh/id_rsa ubuntu@54.90.38.101
+# This Script connects to the server 54.90.38.101 using the users private key
+# stored in a file school Found in the users home directory
+ssh -i ~/.ssh/school ubuntu@54.90.38.101
