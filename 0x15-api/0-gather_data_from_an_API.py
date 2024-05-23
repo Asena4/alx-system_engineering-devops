@@ -1,4 +1,5 @@
-pt using this REST API, for a given employee ID,
+#!/usr/bin/python3
+"""script using this REST API, for a given employee ID,
 returns information about his/her TODO list progress."""
 import requests as r
 import sys
